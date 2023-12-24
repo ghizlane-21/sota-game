@@ -1,0 +1,86 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gfx/icon.ico</file>
+        <file>gfx/home.png</file>
+        <file>../../Pictures/cards/00.png</file>
+        <file>../../Pictures/cards/01.png</file>
+        <file>../../Pictures/cards/02.png</file>
+        <file>../../Pictures/cards/03.png</file>
+        <file>../../Pictures/cards/04.png</file>
+        <file>../../Pictures/cards/05.png</file>
+        <file>../../Pictures/cards/06.png</file>
+        <file>../../Pictures/cards/07.png</file>
+        <file>../../Pictures/cards/08.png</file>
+        <file>../../Pictures/cards/09.png</file>
+        <file>../../Pictures/cards/10.png</file>
+        <file>../../Pictures/cards/11.png</file>
+        <file>../../Pictures/cards/12.gif</file>
+        <file>../../Pictures/cards/12.png</file>
+        <file>../../Pictures/cards/13.png</file>
+        <file>../../Pictures/cards/14.png</file>
+        <file>../../Pictures/cards/15.png</file>
+        <file>../../Pictures/cards/16.png</file>
+        <file>../../Pictures/cards/17.png</file>
+        <file>../../Pictures/cards/18.png</file>
+        <file>../../Pictures/cards/19.png</file>
+        <file>../../Pictures/cards/20.png</file>
+        <file>../../Pictures/cards/21.png</file>
+        <file>../../Pictures/cards/22.png</file>
+        <file>../../Pictures/cards/23.png</file>
+        <file>../../Pictures/cards/24.png</file>
+        <file>../../Pictures/cards/25.png</file>
+        <file>../../Pictures/cards/26.png</file>
+        <file>../../Pictures/cards/27.png</file>
+        <file>../../Pictures/cards/28.png</file>
+        <file>../../Pictures/cards/29.png</file>
+        <file>../../Pictures/cards/30.png</file>
+        <file>../../Pictures/cards/31.png</file>
+        <file>../../Pictures/cards/32.png</file>
+        <file>../../Pictures/cards/34.png</file>
+        <file>../../Pictures/cards/35.png</file>
+        <file>../../Pictures/cards/36.png</file>
+        <file>../../Pictures/cards/37.png</file>
+        <file>../../Pictures/cards/38.png</file>
+        <file>../../Pictures/cards/39.png</file>
+        <file>../../Pictures/cards - Copie/00.png</file>
+        <file>../../Pictures/cards - Copie/01.png</file>
+        <file>../../Pictures/cards - Copie/02.png</file>
+        <file>../../Pictures/cards - Copie/03.png</file>
+        <file>../../Pictures/cards - Copie/04.png</file>
+        <file>../../Pictures/cards - Copie/05.png</file>
+        <file>../../Pictures/cards - Copie/06.png</file>
+        <file>../../Pictures/cards - Copie/07.png</file>
+        <file>../../Pictures/cards - Copie/08.png</file>
+        <file>../../Pictures/cards - Copie/09.png</file>
+        <file>../../Pictures/cards - Copie/10.png</file>
+        <file>../../Pictures/cards - Copie/11.png</file>
+        <file>../../Pictures/cards - Copie/12.gif</file>
+        <file>../../Pictures/cards - Copie/12.png</file>
+        <file>../../Pictures/cards - Copie/13.png</file>
+        <file>../../Pictures/cards - Copie/14.png</file>
+        <file>../../Pictures/cards - Copie/15.png</file>
+        <file>../../Pictures/cards - Copie/16.png</file>
+        <file>../../Pictures/cards - Copie/17.png</file>
+        <file>../../Pictures/cards - Copie/18.png</file>
+        <file>../../Pictures/cards - Copie/19.png</file>
+        <file>../../Pictures/cards - Copie/20.png</file>
+        <file>../../Pictures/cards - Copie/21.png</file>
+        <file>../../Pictures/cards - Copie/22.png</file>
+        <file>../../Pictures/cards - Copie/23.png</file>
+        <file>../../Pictures/cards - Copie/24.png</file>
+        <file>../../Pictures/cards - Copie/25.png</file>
+        <file>../../Pictures/cards - Copie/26.png</file>
+        <file>../../Pictures/cards - Copie/27.png</file>
+        <file>../../Pictures/cards - Copie/28.png</file>
+        <file>../../Pictures/cards - Copie/29.png</file>
+        <file>../../Pictures/cards - Copie/30.png</file>
+        <file>../../Pictures/cards - Copie/31.png</file>
+        <file>../../Pictures/cards - Copie/32.png</file>
+        <file>../../Pictures/cards - Copie/34.png</file>
+        <file>../../Pictures/cards - Copie/35.png</file>
+        <file>../../Pictures/cards - Copie/36.png</file>
+        <file>../../Pictures/cards - Copie/37.png</file>
+        <file>../../Pictures/cards - Copie/38.png</file>
+        <file>../../Pictures/cards - Copie/39.png</file>
+    </qresource>
+</RCC>
